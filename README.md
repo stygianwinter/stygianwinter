@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... how to use GitHub
 - 🤔 I’m looking for help with ... my website
 - 💬 Ask me about ... my favorite books
-- 📫 How to reach me: Bluesky @stygian.xyz
+- 📫 How to reach me: [Bluesky @stygian.xyz](https://bsky.app/profile/stygian.xyz)
 - 😄 Pronouns: ... she / her 
 
 <!--
