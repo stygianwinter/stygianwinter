@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Emily! 👋
 
 - 🔭 I’m currently working on ... my book of poetry
 - 🌱 I’m currently learning ... how to use GitHub
